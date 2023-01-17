@@ -29,7 +29,7 @@ window.addEventListener('scroll', () => {
 });
 
 ScrollReveal({
-    distance: '60px',
+    distance: '20px',
     duration: 2500,
     delay: 400
 })
