@@ -22,12 +22,12 @@ html{
 
 .nav-class{
     background-color: rgba(0, 0, 0, 0);
-    transition: 1.5s;
+    transition: 2s;
 }
 
 .nav-scroll{
     background-color: #212529;
-    transition: 1.5s;
+    transition: 2s;
 }
 
 .img-inicio{
